@@ -6,7 +6,7 @@ Celebrate the magic
 
 ## [Live Demo](https://pottercharm.herokuapp.com/)
 
-![Doodle - detector - Expecto Patronum](https://github.com/cnishaanntt/Doodledetector/blob/master/demo.gif)
+![Doodle - detector - Expecto Patronum](https://github.com/cnishaanntt/Doodledetect/blob/master/demo.gif)
 
 
 
