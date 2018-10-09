@@ -62,14 +62,14 @@ Doodle detector - inspired from Quick draw uses google object detection api:
  A Child's world is full of fantasies and they expect great attention from their care takers. 
  At times they may not coommunicate their needs in an expressive way. 
 
-Expecto Patronum - doodle detector comes to the rescue 
+Expecto Patronum - doodle detector comes to the rescue. 
 It prompts for your email address initally, then 
-It analyzes the kids drawings and matches with the best ones through google object detection api 
-Click the New button for drawing new doodles 
-Click on the '>' button to get the unique url to your email address 
-You could then track their drawings through the unique url sent to your email id 
-Once you decide to fulfill their wishes click on the magic spark icon 
-It takes you to the walmart page 
-You could then fulfill their wishes instantly 
+it analyzes the kids drawings and matches with the best ones through google object detection api. 
+Click the New button for drawing new doodles. 
+Click on the '>' button to get the unique url to your email address. 
+You could then track their drawings through the unique url sent to your email id. 
+Once you decide to fulfill their wishes click on the magic spark/ flame icon. 
+It takes you to the walmart page. 
+You could then fulfill their wishes instantly. 
 
 This makes the kids valued and overcome any obstacles quickly.
