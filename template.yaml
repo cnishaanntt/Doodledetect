@@ -1,0 +1,24 @@
+﻿AWSTemplateFormatVersion: '2010-09-09'
+Transform: 'AWS::Serverless-2016-10-31'
+Description: Surprise through the drawings of your loved ones
+Resources:
+  DoodleDetect:
+    Type: 'AWS::Serverless::Function'
+    Properties:
+      Handler: index.handler
+      Runtime: nodejs8.10
+      CodeUri: .
+      Description: Surprise through the drawings of your loved ones
+      MemorySize: 128
+      Timeout: 60
+      Role: 'arn:aws:iam::234605428355:role/service-role/admin'
+      Environment:
+        Variables:
+          GMAIL_ID: your gmail account id
+          GMAIL_PWD: your gmail password
+          MONGODB_URL: your mongo db url
+          PASSWORD: your mongo db password
+          SHARED_SECRE: your visa shared secret
+          USER_ID: your visa user id
+          VISA_API_KEY: your visa api key
+          WALMART_KEY: your walmart key
